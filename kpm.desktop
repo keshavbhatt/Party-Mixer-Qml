@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=kpm
+Exec=qmlscene $@ kpm/Main.qml
+Icon=kpm/kpm.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
